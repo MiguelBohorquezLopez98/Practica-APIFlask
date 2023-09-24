@@ -1,0 +1,3 @@
+SECRET_KEY = "so-secret"
+
+SQLALCHEMY_TRACK_MODIFICATIONS = False
